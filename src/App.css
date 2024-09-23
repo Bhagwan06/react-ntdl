@@ -1,0 +1,8 @@
+.switch-icon {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .switch-icon:hover {
+    color: #0056b3; /* Darker color on hover */
+  }
